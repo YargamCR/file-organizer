@@ -19,6 +19,10 @@ def get_category(extension):
 
     elif extension in [".zip", ".rar"]:
         return "Archives"
+    elif extension == ".exe":
+        return "Apps"
+    elif extension in ".iso":
+        return "ISO_Images"
 
     else:
         return "Other"
