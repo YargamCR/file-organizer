@@ -48,6 +48,12 @@ The application currently organizes files into:
   - `.zip`
   - `.rar`
 
+- **Apps**
+  - `.exe`
+
+- **ISO Images**
+  - `.iso`
+
 - **Other**
   - Any unsupported file extension
 
